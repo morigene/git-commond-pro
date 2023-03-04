@@ -5,3 +5,4 @@ this is file-0 line 3 from  b1 branch
 this is file-0 line 3 from  b1 branch
 This is file -0 line 4 from b1 branch
 This is file -0 line 5 from b1 branch
+This is file -0 line 6 from b1 branch
