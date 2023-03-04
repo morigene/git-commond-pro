@@ -1,7 +1,6 @@
 this is file-0
 this is file-0 line 2
-<<<<<<< HEAD
 This is file-0 line 3
-=======
 this is file-0 line 3 from  b1 branch
->>>>>>> b1
+this is file-0 line 3 from  b1 branch
+This is file -0 line 4 from b1 branch
